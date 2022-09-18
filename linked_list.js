@@ -18,7 +18,7 @@ class LinkedList {
     }
 
     // clear the linked list
-    empy () {
+    empty () {
         this.head = null;
     }
 
